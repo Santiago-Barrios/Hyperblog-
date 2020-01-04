@@ -11,3 +11,5 @@ recuperando mi pc
 con nueva llave privada 
 
 ..
+
+solo con una llave 
