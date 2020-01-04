@@ -1,4 +1,4 @@
-Hola soy Santiago Barrios y tengo 23 años
+﻿Hola soy Santiago Barrios y tengo 23 años
 y aquí empieza mi historia en el mundo tec 
 
 ya acabe el curso de desarrollo web online y estoy en 
@@ -7,3 +7,5 @@ github ahora.
 mañana voy a hablar de mi noviazgo.
 
 recuperando mi pc 
+
+con nueva llave privada 
